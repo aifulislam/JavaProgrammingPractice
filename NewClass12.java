@@ -1,0 +1,16 @@
+//
+package javaapplication;
+
+import java.util.Scanner;
+
+/**
+ * @author Ariful Islam
+ */
+public class NewClass12 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner (System.in);
+        int num;
+        System.out.println("");
+        num = input.nextInt();
+    }
+}
