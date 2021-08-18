@@ -1,2 +1,2 @@
-# JavaProgrammingPractice
+# JavaProgrammingFirstPart
 My Java Programing 
